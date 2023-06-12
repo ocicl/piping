@@ -1,0 +1,9 @@
+* piping
+
+A Common Lisp library to enable simple message pipelines.
+
+|---------+--------------------------------------------|
+| source  | git:https://github.com/Shinmera/piping.git |
+| commit  | 257fdf8                                    |
+| systems | piping                                     |
+|---------+--------------------------------------------|
