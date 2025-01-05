@@ -4,6 +4,6 @@ A Common Lisp library to enable simple message pipelines.
 
 |---------+--------------------------------------------|
 | source  | git:https://github.com/Shinmera/piping.git |
-| commit  | 234aa8e                                    |
+| commit  | eccb041                                    |
 | systems | piping                                     |
 |---------+--------------------------------------------|
